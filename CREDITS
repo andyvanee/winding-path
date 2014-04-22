@@ -1,1 +1,6 @@
 Give me some credit.
+
+I'm on stale branch editing the CREDITS file. I still think
+that you run the app by doing `./hello World`, yet my changes
+are merged just fine, since all I've changed is this CREDITS
+file...
